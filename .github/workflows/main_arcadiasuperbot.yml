@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'ArcadiaSuperbot'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C1872D29B33B46739437F3996E1CC4D4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EC99EA84A9114DAD98DF481BED9C04FD }}
